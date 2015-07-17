@@ -10,7 +10,7 @@ namespace IOT.BackendSite.Controllers
     {
         public ActionResult Index()
         {
-            ViewBag.Message = "Welcome to ASP.NET MVC!";
+            ViewBag.Message = "Welcome to the new connected world of intelligent devices";
 
             return View();
         }
