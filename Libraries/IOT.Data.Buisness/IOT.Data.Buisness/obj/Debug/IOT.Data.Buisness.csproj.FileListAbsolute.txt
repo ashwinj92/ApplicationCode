@@ -1,0 +1,5 @@
+N:\IOT_Project\IOTCodebase\ApplicationCode\Libraries\IOT.Data.Buisness\IOT.Data.Buisness\bin\Debug\IOT.Data.Buisness.dll
+N:\IOT_Project\IOTCodebase\ApplicationCode\Libraries\IOT.Data.Buisness\IOT.Data.Buisness\bin\Debug\IOT.Data.Buisness.pdb
+N:\IOT_Project\IOTCodebase\ApplicationCode\Libraries\IOT.Data.Buisness\IOT.Data.Buisness\obj\Debug\IOT.Data.Buisness.csprojResolveAssemblyReference.cache
+N:\IOT_Project\IOTCodebase\ApplicationCode\Libraries\IOT.Data.Buisness\IOT.Data.Buisness\obj\Debug\IOT.Data.Buisness.dll
+N:\IOT_Project\IOTCodebase\ApplicationCode\Libraries\IOT.Data.Buisness\IOT.Data.Buisness\obj\Debug\IOT.Data.Buisness.pdb
